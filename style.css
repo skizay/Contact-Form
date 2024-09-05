@@ -41,6 +41,11 @@ textarea {
     font-size: 14px;
 }
 
+.error-message {
+    color:red;
+    display: none;
+}
+
 button {
     width: 100%;
     padding: 10px;
