@@ -1,8 +1,8 @@
 <?php
 // Koneksi ke database
 $servername = "localhost";
-$username = "root"; // Ganti dengan username MySQL Anda
-$password = ""; // Ganti dengan password MySQL Anda
+$username = "root"; 
+$password = ""; 
 $dbname = "contact_form_db"; // Nama database yang telah dibuat
 
 $conn = new mysqli($servername, $username, $password, $dbname);
